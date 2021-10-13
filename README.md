@@ -5,7 +5,7 @@
 Я ищу работу в должности программист Python Django.
 
 ## Вот здесь можно посмотреть видеопрезентацию обо мне:
-https://youtube.ru/link
+https://youtu.be/G1Xpgp8NY1s
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/LpyXrnP/2.png" alt="2" border="0"></a>
@@ -39,6 +39,7 @@ https://github.com/Apodisation13/docker_hw_1
 * Основы Python https://ibb.co/5TXw0Rk
 * git https://ibb.co/7CcQsTd
 * SQL https://ibb.co/gSSr3n4
+* Advanced Python https://ibb.co/4jH40sr
 * Django https://ibb.co/t2RBwCq
 * Web() https://ibb.co/2ZZQ3YT
 
