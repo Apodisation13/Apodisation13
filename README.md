@@ -16,7 +16,7 @@ https://youtu.be/G1Xpgp8NY1s
 Описание: игра BlackJack (21 очко) для браузера! Не проиграйте все деньги!!! ))))) <br>
 Стэк: Django, docker, gunicorn, nginx <br>
 https://github.com/Apodisation13/Blackjack_Django <br>
-ЗАПУСТИТЬ ИГРУШКУ: http://194.67.109.190/
+ЗАПУСТИТЬ ИГРУШКУ: http://194.67.109.190:81/
 
 
 * VK YaDisk API GUI <br> 
