@@ -12,11 +12,17 @@ https://youtu.be/G1Xpgp8NY1s
 
 ### Проекты:
 
+* Карточная игра для браузера
+Описание - CCG карточная игра (одиночная).
+Стэк: Django, Python, Postgres, Docker - backend, Vue.js, JavaScript - frontend. Все деплоится на сервер через ci/cd github
+Ссылка: https://card-game.ru
+Пока нет дизайна, в процессе. 
+
 * BlackJack for Browser
 Описание: игра BlackJack (21 очко) для браузера! Не проиграйте все деньги!!! ))))) <br>
 Стэк: Django, docker, gunicorn, nginx <br>
 https://github.com/Apodisation13/Blackjack_Django <br>
-ЗАПУСТИТЬ ИГРУШКУ: http://194.67.109.190:81/
+
 
 
 * VK YaDisk API GUI <br> 
