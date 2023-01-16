@@ -8,7 +8,7 @@
 https://youtu.be/G1Xpgp8NY1s
 
 
-<a href="https://ibb.co/dWyCZNn"><img src="https://i.ibb.co/yfJv2zL/IMG-20221224-154755.jpg" alt="IMG-20221224-154755" border="0" /></a>
+<a href="https://ibb.co/5GwxLff"><img src="https://i.ibb.co/VJ5pTPP/22.jpg" alt="22" border="0"></a>
 
 ### Проекты:
 
